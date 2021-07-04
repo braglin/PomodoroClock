@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PomodoroClock/1.0.0": {
+        "runtime": {
+          "PomodoroClock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PomodoroClock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
